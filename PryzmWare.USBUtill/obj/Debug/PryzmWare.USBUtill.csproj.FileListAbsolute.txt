@@ -1,0 +1,13 @@
+C:\Users\Reece\source\repos\PryzmWare.USBUtill\PryzmWare.USBUtill\bin\Debug\PryzmWare.USBUtill.exe.config
+C:\Users\Reece\source\repos\PryzmWare.USBUtill\PryzmWare.USBUtill\bin\Debug\PryzmWare.USBUtill.exe
+C:\Users\Reece\source\repos\PryzmWare.USBUtill\PryzmWare.USBUtill\bin\Debug\PryzmWare.USBUtill.pdb
+C:\Users\Reece\source\repos\PryzmWare.USBUtill\PryzmWare.USBUtill\obj\Debug\PryzmWare.USBUtill.csprojAssemblyReference.cache
+C:\Users\Reece\source\repos\PryzmWare.USBUtill\PryzmWare.USBUtill\obj\Debug\PryzmWare.USBUtill.Form1.resources
+C:\Users\Reece\source\repos\PryzmWare.USBUtill\PryzmWare.USBUtill\obj\Debug\PryzmWare.USBUtill.Properties.Resources.resources
+C:\Users\Reece\source\repos\PryzmWare.USBUtill\PryzmWare.USBUtill\obj\Debug\PryzmWare.USBUtill.csproj.GenerateResource.cache
+C:\Users\Reece\source\repos\PryzmWare.USBUtill\PryzmWare.USBUtill\obj\Debug\PryzmWare.USBUtill.csproj.CoreCompileInputs.cache
+C:\Users\Reece\source\repos\PryzmWare.USBUtill\PryzmWare.USBUtill\obj\Debug\PryzmWare.USBUtill.exe
+C:\Users\Reece\source\repos\PryzmWare.USBUtill\PryzmWare.USBUtill\obj\Debug\PryzmWare.USBUtill.pdb
+C:\Users\Reece\source\repos\PryzmWare.USBUtill\PryzmWare.USBUtill\obj\Debug\PryzmWare.USBUtill.Resource1.resources
+C:\Users\Reece\source\repos\PryzmWare.USBUtill\PryzmWare.USBUtill\obj\Debug\PryzmWare.USBUtill.TransparentPictureBox.resources
+C:\Users\Reece\source\repos\PryzmWare.USBUtill\PryzmWare.USBUtill\obj\Debug\PryzmWare.USBUtill.USBControl.resources
